@@ -26,5 +26,8 @@
     <ClInclude Include="CalcMetodos.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MisFunciones.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

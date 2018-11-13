@@ -1,5 +1,8 @@
 #include <iostream>
+#include "MisFunciones.h"
 #include "CalcMetodos.h"
+
+
 
 void Stop() {
 	std::cin.ignore();
