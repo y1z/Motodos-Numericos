@@ -2,7 +2,10 @@
 #include <cmath>
 #include <iostream>
 #include <vector>
+#include <ratio>
 
+
+using std::cin;
 
 class CalcMetodos
 {
@@ -11,5 +14,6 @@ public:
 	~CalcMetodos();
 public: // Metodos 
 	double InterpolacionLagrange();
+	double InterpolacionDeNewton();
 };
 
